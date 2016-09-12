@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HouseInfo infotype="LoanHouse">
+	<nationalID>C56789</nationalID>
+  <address>91 Moonlight St, Huslia, AK 99746, United States</address>
+  <bedroom>3</bedroom>
+  <bathroom>3</bathroom>
+  <landSize>200</landSize>
+  <appraisedValue>0</appraisedValue>
+</HouseInfo>

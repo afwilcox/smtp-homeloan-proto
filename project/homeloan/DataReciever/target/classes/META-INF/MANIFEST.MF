@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1465325840535
+Build-Jdk: 1.8.0_91
+Built-By: Alec
+Bundle-ManifestVersion: 2
+Bundle-Name: Data Reciever
+Bundle-SymbolicName: homeloan-datareciever
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.blogdemo.homeloan.homeloan.datareciever;version="1.0
+ .0.SNAPSHOT"
+Import-Package: org.apache.activemq.camel.component;version="[5.11,6)",o
+ rg.osgi.service.blueprint;version="[1.0.0,2.0.0)"
+Tool: Bnd-1.50.0
